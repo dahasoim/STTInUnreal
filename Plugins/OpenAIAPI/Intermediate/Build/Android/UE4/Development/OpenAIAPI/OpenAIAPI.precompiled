@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.OpenAIAPI.cppa7.o",
+		"Module.OpenAIAPI.cppa8.o",
+		"Module.OpenAIAPI.gen.cppa7.o",
+		"Module.OpenAIAPI.gen.cppa8.o"
+	]
+}

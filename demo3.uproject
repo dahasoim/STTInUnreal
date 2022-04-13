@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "VaRest",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
+		},
+		{
+			"Name": "ReplicaLink",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/319ae183aabb405c8eb1011c130c10e9"
+		},
+		{
+			"Name": "GoogleSpeechKit",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8013d15afdea431899416cbc88dce540"
+		},
+		{
+			"Name": "OpenAIAPI",
+			"Enabled": true
+		}
+	]
+}
